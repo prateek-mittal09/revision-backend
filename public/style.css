@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    background-color:burlywood;
+    color: black;
+    justify-content: center;
+    height: 45px;
+    width: 95px;
+    margin-top: 150px;
+    size: 25px;
+    cursor:pointer;
+}
+
+input{
+    display: flex;
+    flex-direction: row;
+    height: 25px;
+    width: 185px;    
+}
+.name{
+    margin-top: 150px;
+    margin-bottom: 15px;
+}
+
+
